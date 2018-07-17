@@ -238,140 +238,28 @@
       "title":"கலித்தொகை",
       "books":[
          {
-            "format":"epub",
+            "format":"pdf",
             "book_id":"kali0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
+            "title":"கலித்தொகை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0221.pdf",
             "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"kali0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"kali0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         },
-         {
-            "format":"epub",
-            "book_id":"kali0000004",
-            "title":"சைக்கோ – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%8b-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/psycho-cover.jpg?fit=811%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"kali0000005",
-            "title":"அலிபாபா",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%ae%bf%e0%ae%aa%e0%ae%be%e0%ae%aa%e0%ae%be-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/01/alibaba-cover-1.jpg?fit=530%2C767"
-         },
-         {
-            "format":"epub",
-            "book_id":"kali0000006",
-            "title":"ஒற்றன் – குறு நாவல்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%92%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2017/11/otran-cover.jpg?fit=754%2C1200"
          }
       ]
    },
    {
       "title":"அகநானூறு",
       "books":[
-         {
-            "format":"epub",
-            "book_id":"agam0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"agam0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"agam0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         },
-         {
-            "format":"epub",
-            "book_id":"agam0000004",
-            "title":"சைக்கோ – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%8b-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/psycho-cover.jpg?fit=811%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"agam0000005",
-            "title":"அலிபாபா",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%ae%bf%e0%ae%aa%e0%ae%be%e0%ae%aa%e0%ae%be-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/01/alibaba-cover-1.jpg?fit=530%2C767"
-         },
-         {
-            "format":"epub",
-            "book_id":"agam0000006",
-            "title":"ஒற்றன் – குறு நாவல்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%92%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2017/11/otran-cover.jpg?fit=754%2C1200"
-         }
       ]
    },
    {
       "title":"புறநானூறு",
       "books":[
          {
-            "format":"epub",
+            "format":"pdf",
             "book_id":"puram0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
+            "title":"புறநானூறு",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0057.pdf",
             "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"puram0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"puram0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         },
-         {
-            "format":"epub",
-            "book_id":"puram0000004",
-            "title":"சைக்கோ – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%8b-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/psycho-cover.jpg?fit=811%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"puram0000005",
-            "title":"அலிபாபா",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%ae%bf%e0%ae%aa%e0%ae%be%e0%ae%aa%e0%ae%be-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/01/alibaba-cover-1.jpg?fit=530%2C767"
-         },
-         {
-            "format":"epub",
-            "book_id":"puram0000006",
-            "title":"ஒற்றன் – குறு நாவல்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%92%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2017/11/otran-cover.jpg?fit=754%2C1200"
          }
       ]
    }
