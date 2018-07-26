@@ -3,524 +3,216 @@
       "title":"திருக்குறள்",
       "books":[
          {
-            "format":"epub",
-            "book_id":"thirukural0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"thirukural0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"thirukural0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         },
-         {
-            "format":"epub",
-            "book_id":"thirukural0000004",
-            "title":"சைக்கோ – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%8b-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/psycho-cover.jpg?fit=811%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"thirukural0000005",
-            "title":"அலிபாபா",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%ae%bf%e0%ae%aa%e0%ae%be%e0%ae%aa%e0%ae%be-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/01/alibaba-cover-1.jpg?fit=530%2C767"
-         },
-         {
-            "format":"epub",
-            "book_id":"thirukural0000006",
-            "title":"ஒற்றன் – குறு நாவல்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%92%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2017/11/otran-cover.jpg?fit=754%2C1200"
-         }
+            "format":"pdf",
+            "book_id":"9990019",
+            "title":"திருக்குறள்",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0001.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"நான்மணிக்கடிகை",
       "books":[
          {
-            "format":"epub",
-            "book_id":"naanmanikadigai0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"naanmanikadigai0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"naanmanikadigai0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990020",
+            "title":"நான்மணிக்கடிகை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0047.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"இன்னா நாற்பது",
       "books":[
          {
-            "format":"epub",
-            "book_id":"innaa40_0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"innaa40_0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"innaa40_0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         },
-         {
-            "format":"epub",
-            "book_id":"innaa40_0000004",
-            "title":"சைக்கோ – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%8b-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/psycho-cover.jpg?fit=811%2C1200"
-         }
+            "format":"pdf",
+            "book_id":"9990021",
+            "title":"இன்னா நாற்பது",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0025.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"இனியவை நாற்பது",
       "books":[
          {
-            "format":"epub",
-            "book_id":"iniyavai40_0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"iniyavai40_0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"iniyavai40_0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990022",
+            "title":"இனியவை நாற்பது",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0025.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"களவழி நாற்பது",
       "books":[
          {
-            "format":"epub",
-            "book_id":"kalavazhi40_0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"kalavazhi40_0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"kalavazhi40_0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990023",
+            "title":"களவழி நாற்பது",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0025.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"திரிகடுகம்",
       "books":[
          {
-            "format":"epub",
-            "book_id":"thirikadugam0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"thirikadugam0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         }
+            "format":"pdf",
+            "book_id":"9990024",
+            "title":"திரிகடுகம்",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0048.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"ஆசாரக்கோவை",
       "books":[
          {
-            "format":"epub",
-            "book_id":"aasaarakovai0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"aasaarakovai0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"aasaarakovai0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         },
-         {
-            "format":"epub",
-            "book_id":"aasaarakovai0000004",
-            "title":"சைக்கோ – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%8b-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/psycho-cover.jpg?fit=811%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"aasaarakovai0000005",
-            "title":"அலிபாபா",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%ae%bf%e0%ae%aa%e0%ae%be%e0%ae%aa%e0%ae%be-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/01/alibaba-cover-1.jpg?fit=530%2C767"
-         }
+            "format":"pdf",
+            "book_id":"9990025",
+            "title":"ஆசாரக்கோவை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0024.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"பழமொழி நானூறு",
       "books":[
          {
-            "format":"epub",
-            "book_id":"pazamozhi400_0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"pazamozhi400_0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"pazamozhi400_0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990026",
+            "title":"பழமொழி நானூறு",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0036.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"சிறுபஞ்சமூலம்",
       "books":[
          {
-            "format":"epub",
-            "book_id":"sirupanjalam0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"sirupanjalam0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"sirupanjalam0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990027",
+            "title":"சிறுபஞ்சமூலம்",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0029.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"முதுமொழிக்காஞ்சி",
       "books":[
          {
-            "format":"epub",
-            "book_id":"muthumozhi0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"muthumozhi0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"muthumozhi0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         },
-         {
-            "format":"epub",
-            "book_id":"muthumozhi0000004",
-            "title":"சைக்கோ – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%8b-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/psycho-cover.jpg?fit=811%2C1200"
-         }
+            "format":"pdf",
+            "book_id":"9990028",
+            "title":"முதுமொழிக்காஞ்சி",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0025.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"ஏலாதி",
       "books":[
          {
-            "format":"epub",
-            "book_id":"elathi0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"elathi0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"elathi0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990029",
+            "title":"ஏலாதி",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0029.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"கார் நாற்பது",
       "books":[
          {
-            "format":"epub",
-            "book_id":"car40_0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"car40_0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"car40_0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990030",
+            "title":"கார் நாற்பது",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0029.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"ஐந்திணை ஐம்பது",
       "books":[
-         {
-            "format":"epub",
-            "book_id":"ainthinai50_0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"ainthinai50_0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"ainthinai50_0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+        {
+            "format":"pdf",
+            "book_id":"9990031",
+            "title":"ஐந்திணை ஐம்பது",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0027.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"திணைமொழி ஐம்பது",
       "books":[
          {
-            "format":"epub",
-            "book_id":"thinaimozhi50_0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"thinaimozhi50_0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"thinaimozhi50_0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990032",
+            "title":"திணைமொழி ஐம்பது",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0027.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"ஐந்திணை எழுபது",
       "books":[
          {
-            "format":"epub",
-            "book_id":"ainthinai70_0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"ainthinai70_0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"ainthinai70_0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         },
-         {
-            "format":"epub",
-            "book_id":"ainthinai70_0000004",
-            "title":"சைக்கோ – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%8b-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/psycho-cover.jpg?fit=811%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"ainthinai70_0000005",
-            "title":"அலிபாபா",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%ae%bf%e0%ae%aa%e0%ae%be%e0%ae%aa%e0%ae%be-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/01/alibaba-cover-1.jpg?fit=530%2C767"
-         }
+            "format":"pdf",
+            "book_id":"9990033",
+            "title":"ஐந்திணை எழுபது",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0027.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"திணைமாலை நூற்றைம்பது",
       "books":[
          {
-            "format":"epub",
-            "book_id":"thinaimalai0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"thinaimalai0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"thinaimalai0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990034",
+            "title":"திணைமாலை நூற்றைம்பது",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0056.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"கைந்நிலை",
       "books":[
          {
-            "format":"epub",
-            "book_id":"kannilai0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"kannilai0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"kannilai0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990035",
+            "title":"கைந்நிலை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0051.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 },
    {
       "title":"நாலடியார்",
       "books":[
          {
-            "format":"epub",
-            "book_id":"naladiyar0000001",
-            "title":"வேர்களை இழக்காதீர்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%87%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%80%e0%ae%b0%e0%af%8d-epub/",
-            "cover_url":"https://i2.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/breaking-the-root-Copy.jpg?fit=1200%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"naladiyar0000002",
-            "title":"நான் – கவிதைகள்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/04/cover.jpg?fit=849%2C1200"
-         },
-         {
-            "format":"epub",
-            "book_id":"naladiyar0000003",
-            "title":"ஞாநி – தாயுமானவன்",
-            "epub_url":"http://freetamilebooks.com/download/%e0%ae%9e%e0%ae%be%e0%ae%a8%e0%ae%bf-epub/",
-            "cover_url":"https://i0.wp.com/freetamilebooks.com/wp-content/uploads/2018/02/gnani.jpg?fit=600%2C1050"
-         }
+            "format":"pdf",
+            "book_id":"9990036",
+            "title":"நாலடியார்",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0016.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+}
       ]
 }
 ]
